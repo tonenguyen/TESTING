@@ -3,6 +3,8 @@ Sharing the TEST knowledge from manual, automation to performance testing.
 
 Software is a vast domain like the ocean. Hope a drop of knowledge to have some ripple effects.
 
+### Type of Testing:
+
 - Unit Test > Test at methods or class level (Whitebox) <br />
 - Integration Test > How do individual units/components fit & work together as a whole? <br />
 - Functional Test > Use cases <br />
